@@ -5,7 +5,7 @@
 <head>
 	<meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
-  <title>Just España</title>
+  <title>Naturaleza y bienestar</title>
 
   <link href="http://fonts.googleapis.com/css?family=Quicksand:300,400,700|Oxygen:400,700,300" rel="stylesheet" type="text/css">
   <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
@@ -24,7 +24,8 @@
 		<header>
 			<div class="small-6 large-4 columns headimg">
 				<a href="#">
-					<img src="img/head.png" alt="just">
+					<h3>Naturaleza y bienestar</h3>
+					<!-- <img src="img/head.png" alt="just"> -->
 				</a>
 			</div>
 			<div class="small-6 large-5 columns right header-info">
@@ -45,7 +46,7 @@
 				  <ul class="title-area">
 				    <!-- Title Area -->
 				    <li class="name">
-				      <h1><a href="index.php">JUST ESPAÑA </a></h1>
+				      <h1><a href="index.php">Naturaleza y bienestar</a></h1>
 				    </li>
 				    <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
 				    <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
@@ -59,13 +60,21 @@
 		      <li class="divider"></li>
 				<li class="has-dropdown"><a href="#">PRODUCTOS</a>
 			      <ul class="dropdown">
-			          <li class="has-dropdown"><a href="anti-celulitis.php">Anti-celulitis</a>
+			          <li class="has-dropdown"><a href="farma-hierbas.php">Farmacia de hierbas</a>
 			            <ul class="dropdown">
 			              <li><label>Anti-celulitis</label></li>
-			              <li><a href="anti-celulitis.php#body-scrub">Body scrub</a></li>
-			              <li><a href="anti-celulitis.php#night-cream">Night Cream</a></li>
-			              <li><a href="anti-celulitis.php#firming-gel">Firming gel</a></li>
-			              <li><a href="anti-celulitis.php#essential-care">Essential care</a></li>
+			              <li><a href="farma-hierbas.php#cr-arnica-raponchigo-incienso">Crema de Árnica, Rapónchigo e Incienso</a></li>
+			              <li><a href="farma-hierbas.php#cr-san-activ">Crema San Activ</a></li>
+			              <li><a href="farma-hierbas.php#cr-tea-tree-rosalina">Crema de Tea Tree y Rosalina</a></li>
+			              <li><a href="farma-hierbas.php#cr-calendula">Crema de Caléndula</a></li>
+			              <li><a href="farma-hierbas.php#cr-enebro">Crema de Enebro</a></li>
+			              <li><a href="farma-hierbas.php#cr-tomillo">Crema de Tomillo</a></li>
+			              <li><a href="farma-hierbas.php#gel-cr-consuelda">Gel cremoso de Consuelda</a></li>
+			              <li><a href="farma-hierbas.php#cr-manos-manzanilla">Crema de manos de Manzanilla</a></li>
+			              <li><a href="farma-hierbas.php#cr-lamelloderm">Crema de Lamelloderm</a></li>
+			              <li><a href="farma-hierbas.php#cr-lavanda">Crema de Lavanda</a></li>
+			              <li><a href="farma-hierbas.php#cr-cardamina">Crema de Cardamina</a></li>
+			              <li><a href="farma-hierbas.php#balsamo-alpes">Balsamo de los alpes</a></li>
 			            </ul>
 			          </li>
 			          <li class="has-dropdown"><a href="aceites-esenciales.php">Aceites Esenciales</a>
@@ -77,21 +86,21 @@
 			              <li><a href="aceites-esenciales.php#limon-natural">Limon Natural</a></li>
 			            </ul>
 			          </li>
-			          <li class="has-dropdown"><a href="aceites-esenciales.php">Baño y ducha</a>
+			          <li class="has-dropdown"><a href="bano-ducha.php">Baño y ducha</a>
 						<ul class="dropdown">
 			              <li><label>Baño y ducha</label></li>
-			              <li><a href="baño-ducha.php#lavanda-natural">Lavanda Natural</a></li>
-			              <li><a href="baño-ducha.php#naranja-natural">Naranja Natural</a></li>
-			              <li><a href="baño-ducha.php#tea-tree">Tea Tree con Manuca Rosalina</a>
-			              <li><a href="baño-ducha.php#limon-natural">Limon Natural</a></li>
-			              <li><a href="baño-ducha.php#lavanda-natural">Lavanda Natural</a></li>
-			              <li><a href="baño-ducha.php#naranja-natural">Naranja Natural</a></li>
-			              <li><a href="baño-ducha.php#tea-tree">Tea Tree con Manuca Rosalina</a></li>
-			              <li><a href="baño-ducha.php#limon-natural">Limon Natural</a></li>
-			              <li><a href="baño-ducha.php#tea-tree">Tea Tree con Manuca Rosalina</a>		              
+			              <li><a href="bano-ducha.php#cepillo-masajes">Cepillo para masaje</a></li>
+			              <li><a href="bano-ducha.php#esponja-nylon">Esponja de nylon</a></li>
+			              <li><a href="bano-ducha.php#esencia-tomillo">Esencia de baño de tomillo</a>
+			              <li><a href="bano-ducha.php#esencia-sandalo">Esencia para baño de sándalo</a></li>
+			              <li><a href="bano-ducha.php#alpes">Baño de los alpes</a></li>
+			              <li><a href="bano-ducha.php#relajacion">Baño de relajación</a></li>
+			              <li><a href="bano-ducha.php#ducha-miel-y-arroz">Ducha de miel y arroz</a></li>
+			              <li><a href="bano-ducha.php#sales-mar-muerto">Sales de baño san activ con sales del mar muerto</a></li>
+			              <li><a href="bano-ducha.php#locion-ducha">Deo intim - Loción de ducha</a>		              
+			              <li><a href="bano-ducha.php#ducha-lamelloderm">Ducha de lamelloderm</a>		              
 			            </ul>
 			          </li>
-			          <li class="divider"></li>
 			          <li class="has-dropdown"><a href="linea-edelweiss.php">línea Edelweiss</a>
 			            <ul class="dropdown">
 			              <li><label>linea-edelweiss</label></li>
@@ -101,7 +110,6 @@
 			              <li><a href="linea-edelweiss.php#4">4</a></li>
 			            </ul>
 			          </li>
-			          <li class="divider"></li>
 			          <li class="has-dropdown"><a href="cuidado-de-pies.php">Cuidado de pies</a>
 			            <ul class="dropdown">
 			              <li><label>cuidado-de-pies</label></li>
